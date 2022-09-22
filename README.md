@@ -10,7 +10,7 @@ This is a team project, a part of the web branch at [Hive Helsinki](https://www.
   - [Work breakdown (time tracking)](#work-breakdown)
   - [Database structure](#database-structure)
   - [Website wireframe](#website-wireframe)
-- [**Live preview on HEROKU** (**demo username** `love` **password** `1234Aa`)](https://astromatcha.herokuapp.com/)
+- [**Live preview on HEROKU** (DISABLED FOR NOW)](https://astromatcha.herokuapp.com/)
 - [App Video Preview](#app-live-preview)
 - [Run locally](#run-locally)
 
